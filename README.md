@@ -1,4 +1,4 @@
-# ML_classficiation-feature_extraction_template
+# ML_classficiation_feature_extraction_template
 This is a template for me to perform ML_classficiation&amp;feature_extraction using sklearn
 It includes:
 - the data overview, data exploration(class balance check), data processing, data cleaning 
